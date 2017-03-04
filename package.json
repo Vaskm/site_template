@@ -1,0 +1,32 @@
+{
+  "name": "gulp-set",
+  "version": "1.0.0",
+  "description": "Gulp template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VaskM",
+  "license": "ISC",
+  "devDependencies": {
+    "bower": "^1.8.0",
+    "browser-sync": "^2.18.7",
+    "gulp": "^3.9.1",
+    "gulp-bower": "0.0.13",
+    "gulp-cached": "^1.1.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-compass": "^2.1.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-if": "^2.0.2",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-install": "^0.6.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-progeny": "^0.4.0",
+    "gulp-pug": "^3.2.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sequence": "^0.4.6",
+    "gulp-uglify": "^2.0.1",
+    "gulp-useref": "^3.1.2",
+    "run-sequence": "^1.2.2"
+  }
+}

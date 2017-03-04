@@ -1,0 +1,21 @@
+{
+  "name": "gulp-set",
+  "description": "Gulp template",
+  "main": "index.js",
+  "authors": [
+    "VaskM"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Vaskm/vaskm.github.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "4"
+  }
+}
